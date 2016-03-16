@@ -7,37 +7,71 @@ Everything below this line is in copy at [resonatormagazine.github.io/Contributo
 ----------
 
 
-#**Resonator Magazine Has Instructions**#
+# **Resonator Magazine Has Instructions** #
 
-####Contents####
+#### Contents ####
 
 1. [**Genesis**](#genesis)
-2. [**The Basics**](#basics)
-     1. [Getting Started with GitHub for Resonator](#account)
-     2. [Downloading and Installing the GitHub Client](#client)
-     3. [Obtaining Access to Resonator's System](#system)
-     4. [Syncing Your Changes to Our Repo](#syncing)
-     5. [A Simple Step-by-Step Summary of Syncing](#stepbystep)
-3. [**In-Depth Workflows by Role**](#roles)
+2. [**In-Depth Workflows by Role**](#roles)
      1. [Columnist](#columnist)
      2. [Reviewer](#reviewer)
      3. [Contributor](#contributor)
      4. [Feature Contributor](#featurecontributor)
      5. [Photographer](#photographer)
      6. [Designer](#designer)
-4. [**The Resonator Style Guide**](#style_guide)
+3. [**The Resonator Style Guide**](#style_guide)
      1. [Formatting Your Submission](#formatting)
      2. [Metadata](#metadata)
      3. [Copyright](#copyright)
      4. [Credit](#credit)
-       
+4. [**Advanced Steps for Key Contributors**](#git)
+     1. [Getting Started with GitHub for Resonator](#account)
+     2. [Downloading and Installing the GitHub Client](#client)
+     3. [Obtaining Access to Resonator's System](#system)
+     4. [Syncing Your Changes to Our Repo](#syncing)
+     5. [A Simple Step-by-Step Summary of Syncing](#stepbystep)       
     
 
 ## <a id="genesis"></a>Genesis ##
 
 
+## <a id="roles"></a>Roles ##
 
-### <a id="basics"></a>The Basics ###
+#### <a id="columnist"></a>Columnist ####
+
+As a columnist, you play a starring role in Resonator. 
+
+Of course, there is that SpiderMan caveat about power and responsibility. Resonator relies on columnists for recurring content, both on the website and in the magazine proper. Because of this, you're ability to work with our GitHub system needs to be a bit more in-depth than that of the casual contributor. All of your draft submissions will need to be pushed to our Columnist repo so that we can maintain solid version control practices.
+
+How do you know you're a columnist with Resonator? 
+
+- You pitched an idea for a recurring column to our Editorial Board (team@resonatormagazine.ca)
+- You received confirmation that your idea was killer.
+- You were sent here!
+
+What do you do now that you're a Columnist?
+
+- Sign up for Github and get connected with the Resonator Account -  [(see our Github Walkthrough)](#git)
+- 
+
+#### <a id="reviewer"></a>Reviewer #####
+#### <a id="contributor"></a>Contributor #####
+#### <a id="featurecontributor"></a>Feature Contributor #####
+#### <a id="photographer"></a>Photographer #####
+#### <a id="designer"></a>Design #####
+
+## <a id="style_guide"></a>The Resonator Style Guide ###
+
+#### <a id="formatting"></a>Formatting Your Submission #####
+
+#### <a id="metadata"></a>Metadata #####
+
+#### <a id="copyright"></a>Copyright #####
+
+#### <a id="credit"></a>Credit #####
+
+
+## <a id="git"></a>Advanced Steps for Key Contributors ##
 
 The entirety of our under-the-hood practices run through GitHub, and this remarkable piece of software will soon become your greatest tool in the war against disorganization. 
 
@@ -51,7 +85,7 @@ To contribute your articles, media, and playlists to Resonator, you'll have to:
 
 If you've never used GitHub before, and decided to give it a Google-ing, you likely saw a fair bit of discussion about Git, command line, and specialized syntax. **Don't worry about it.** For our purposes, you won't ever have to write any command codes - unless you want to. The following sections outline the necessary process - and honestly, it's no different than posting a batch of photos to Facebook.
 
-######<a id="account"></a>Getting Started with GitHub for Resonator ######
+#### <a id="account"></a>Getting Started with GitHub for Resonator ####
 
 First off, you'll need to head to [GitHub](https://github.com/) and create an account. If you already have an account with GitHub, feel free to use it - just make sure that you're identifiable by your account name. It's a lot easier to get a hold of John Smith if he's JohnSmith223, and not Dirty_Burger69. Once you've signed up, GitHub will run you through a confirmation process and such, then all will be good to go.  
 
@@ -64,7 +98,7 @@ Essentially, the Resonator GitHub page is a shared file-tree amongst all team me
 
 No matter your role with Resonator, your use of GitHub should amount to little more than uploading and downloading your submissions and our edits. To do this, you'll need to install either the Mac or Windows desktop client for GitHub.
 
-######<a id="client"></a>Downloading and Installing the GitHub Client ######
+#### <a id="client"></a>Downloading and Installing the GitHub Client ####
 
 If you use Windows, you can download the [GitHub Windows desktop client](https://windows.github.com/).
 
@@ -76,9 +110,9 @@ Once you've installed the software (which is free, by the way), there will be a 
 
 Once you've emailed us your account name and we've specified your roles and assigned your permissions, you will be able to make copies of various Resonator repositories locally - which will all be inside the GitHub/ResonatorMagazine folder on your personal computer. The following section will outline this process. But, we will precede that with a stern warning...
 
-#####**Note:** *Anything you do inside the ResonatorMagazine folder that will be in the GitHub folder on your computer will affect our entire system if you push your changes to the cloud*. This is why we have strict permission systems - but even then, things can get hairy if you're less than careful. If you delete a folder or somebody elses work, and then sync your changes using the client, that work gets deleted. We can revert back and restore it - that's why we use this software - but it's still a drag. So remember, always review your changes in the client before you commit and sync them, and only delete your own files.
+##### **Note:** *Anything you do inside the ResonatorMagazine folder that will be in the GitHub folder on your computer will affect our entire system if you push your changes to the cloud*. This is why we have strict permission systems - but even then, things can get hairy if you're less than careful. If you delete a folder or somebody elses work, and then sync your changes using the client, that work gets deleted. We can revert back and restore it - that's why we use this software - but it's still a drag. So remember, always review your changes in the client before you commit and sync them, and only delete your own files.
 
-######<a id="system"></a>Obtaining Access to Resonator's System ######
+#### <a id="system"></a>Obtaining Access to Resonator's System ####
 
 You've created an account, you've downloaded the software, and you've emailed us your account information. Now, we do a thing. Once you've checked off these steps, it's  up to us to reach out to you and let you know which of the repositories you'll be working through. Those emails will have specific instructions, but the general process will be outlined here:
 
@@ -87,7 +121,7 @@ You've created an account, you've downloaded the software, and you've emailed us
 - In the GitHub client on your desktop, you'll see three columns. The left-side column is a list of repositories connected to your account. If you click one of these repos, the content of the centre and right-side columns changed. The centre column lists the changes that have passed through the repo - every time somebody syncs a change, it will be reflected here. If you click one of the changes, the details will show up in the right-side column.
 - When **you** make a change to something in a ResonatorMagazine folder, the centre column will show an "Uncommitted Changes" bar. If you click it, the right-side column will list the changes you've made to the files. At this point, these changes have not been synced and are only on your computer. 
 
-######<a id="syncing"></a>Syncing Your Changes to our Repo######
+#### <a id="syncing"></a>Syncing Your Changes to our Repo ####
 
 When you add or change something in one of your local ResonatorMagazine folders, two things will happen in your GitHub client.
 
@@ -102,7 +136,7 @@ If this sounds overwhelming or confusing, don't worry. It becomes super easy onc
 
 But, for quick reference:
 
-######<a id="stepbystep"></a>A Simple Step-by-Step Summary of Syncing 
+#### <a id="stepbystep"></a>A Simple Step-by-Step Summary of Syncing 
 
 1. Open the GitHub client on your computer.
 2. In the left-side column, click the repo you intend to work in.
@@ -114,29 +148,3 @@ But, for quick reference:
 8. The centre column will show an **Uncommitted Changes** bar. Fill out the *Summary* and *Description* fields.
 9. Review your changes to make sure you haven't done anything insane, then click **Commit to Master**
 9. Finally, click the **Sync** button in the top right corner.
-
-
-
-### <a id="roles"></a>Roles ###
-
-######<a id="columnist"></a>Columnist #######
-
-As a columnist, you play a starring role in Resonator. 
-
-Of course, there is that SpiderMan caveat about power and responsibility. Resonator relies on columnists for recurring content, both on the website and in the magazine proper. Because of this, you're ability to work with our GitHub system needs to be a bit more in-depth than that of the casual contributor. All of your draft submissions will need to be pushed to our Columnist repo so that we can maintain solid version control practices.
-
-######<a id="reviewer"></a>Reviewer #######
-######<a id="contributor"></a>Contributor #######
-######<a id="featurecontributor"></a>Feature Contributor #######
-######<a id="photographer"></a>Photographer #######
-######<a id="designer"></a>Design #######
-
-### <a id="style_guide"></a>The Resonator Style Guide ###
-
-######<a id="formatting"></a>Formatting Your Submission #######
-
-######<a id="metadata"></a>Metadata #######
-
-######<a id="copyright"></a>Copyright #######
-
-######<a id="credit"></a>Credit #######
