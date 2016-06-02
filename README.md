@@ -41,28 +41,54 @@ Everything below this line is in copy at [resonatormagazine.github.io/Contributo
 
 As a columnist, you play a starring role in Resonator. 
 
-Of course, there is that SpiderMan caveat about power and responsibility. Resonator relies on columnists for recurring content, both on the website and in the magazine proper. Because of this, you're ability to work with our GitHub system needs to be a bit more in-depth than that of the casual contributor. All of your draft submissions will need to be pushed to our Columnist repo so that we can maintain solid version control practices.
+Of course, there is that SpiderMan caveat about power and responsibility. Resonator relies on columnists for recurring content, both on the website and in the magazine proper. 
 
 How do you know you're a columnist with Resonator? 
 
 - You pitched an idea for a recurring column to our Editorial Board (team@resonatormagazine.ca)
+
 - You received confirmation that your idea was killer.
 - You were sent here!
 
 What do you do now that you're a Columnist?
 
-- Sign up for Github and get connected with the Resonator Account -  [(see our Github Walkthrough)](#git)
-- 
+Before you start writing, you will be contacted by our editors to establish parameters and milestones applicable to your column. Obviously, these aren't rules and limits that we force you to adhere to; you help us come up with them, specific to how frequently you intend to write, and the content you intend to cover. Once these guidelines are established, you will have a clear timeline for your first post, and a rough timeline for future posts. 
+
+Once you've got your basic roadmap of when and what, you can tuck in to the free-form jazz that is your creative process. 
+
+And, like free-form jazz, you'll need to abide by a few strict rules to create your composition:
+
+*FORMATTING AND LENGTH RULES FOR COLUMN SUBMISSIONS*
 
 #### <a id="reviewer"></a>Reviewer #####
+
+Oh man, we think you're cool. You go to a lot of shows, or maybe you have an epic album collection, or maybe you just drink a lot and get into bar fights about which Bon Jovi song you hate more. Whichever way you cut it: you're a reviewer.
+
+How do you know you're a reviewer with Resonator?
+
+- You spoke with us and conveyed, in some way, that you're a show-going, outspoken, drunk vinyl snob, and we welcomed you with open arms.
+- You were sent here!
+
+What do you do now that you're a Reviewer?
+
+You can do this two ways. Arbitrarily, we've organized them as personality types and given them obnoxious names:
+
+- Gunslinger: You don't care if anyone likes it, or if there's a plan. You're going to that show, and you're buying that album, and you're going to say something about it, damnit. You write and create and review as you please, when you please. And sometimes you shoot down Tuco right before the noose does its job, just so you can leave him in the desert. Essentially, you don't need to keep us posted on your doings if you don't want to, and you submit your reviews as they happen, naturally. We might not always accept them, since only god knows what you might be writing about, over there in your gunslinger shack. But, your plan is entirely your own.
+- Militia: You know why you're here, and you know what we're doing. You just need to get the go ahead from the guy in the camo Kangol hat to start looting liquor stores and cracking skulls, by which we mean writing thoughtful reviews of music, gear, and performances. If you feel your more of a militia-type, then you will contact editors periodically either with proposals for reviews you could do, or to ask if there's anything we can send your way to be reviewed. Simple as that, you're in a militia now. Militia. This word means nothing anymore. Mil-ish-a. Melissa. 
+
 #### <a id="contributor"></a>Contributor #####
+
+You're a jack-of-all-trades, you're our John Paul Jones. You don't believe in old fashioned ideas like labels and titles, you just do shit.
+
+You review shows, you build gear, you design playlists, you write the odd feature article, and anything else that strikes your fancy. You're a rebel, and you're the person that's still alive at the end of a horror movie. You probably even helped MacGuyver fix his car once. 
+
+Read every other section and then go think about yourself. Right on.
+
 #### <a id="featurecontributor"></a>Feature Contributor #####
 #### <a id="photographer"></a>Photographer #####
 #### <a id="designer"></a>Design #####
 
 ## <a id="style_guide"></a>The Resonator Style Guide ###
-
-#### <a id="formatting"></a>Formatting Your Submission #####
 
 #### <a id="metadata"></a>Metadata #####
 
